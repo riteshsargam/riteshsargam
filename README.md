@@ -9,6 +9,12 @@
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sargam/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritesh.sargam00@gmail.com)  
+
+---
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **ASP.NET Core Web APIs** and **.NET Microservices**  
@@ -20,75 +26,44 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### **💻 Languages & Frameworks**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
-
-### **⚙️ Architecture & Patterns**
-✔️ **Clean Architecture**  
-✔️ **CQRS**  
-✔️ **Repository Pattern**  
-✔️ **SOLID Principles**  
-
-### **🛢 Databases & ORM**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Dapper](https://img.shields.io/badge/Dapper-FFD700?style=for-the-badge&logo=dotnet&logoColor=black)  
-
-### **☁️ Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)  
-
-### **📜 API & Testing**
-✔️ **Swagger / OpenAPI**  
-✔️ **JWT Authentication**  
-✔️ **Serilog (Logging)**  
-✔️ **xUnit / NUnit**  
-✔️ **Postman API Testing**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
 
 ---
 
-## 🔥 Projects
-
-### **📌 Walks and Trails**
-🔗 [GitHub Repo](https://github.com/riteshsargam/Walks-and-Trails)  
-📌 Built a **RESTful API** for managing walking trails and regions using **ASP.NET Core Web API**  
-📌 Implemented **JWT Authentication, Serilog Logging, and Swagger API Documentation**  
-📌 Designed a **modular and scalable architecture** with **Entity Framework Core & Repository Pattern**  
-
----
-
-### **📌 Stock Market Web API**
-🔗 [GitHub Repo](https://github.com/riteshsargam/Stock-Market-Web-API)  
-📌 Developed a **real-time stock market web API** with **live data fetching**  
-📌 Built an **Angular frontend** to visualize stock trends  
-📌 Secured API with **JWT authentication & implemented structured logging with Serilog**  
-
----
-
-## 🏆 Achievements
-
-- 🏅 **Finalist at Smart India Hackathon 2022** (Among **100,000+ participants**)
-- 🏆 **Organized 25+ tech competitions** in college with **300+ participants**
-- 🎖 **Class Representative for 3 years**, leading **50+ students**  
-
----
-
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshsargam&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshsargam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
-  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshsargam&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshsargam&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsargam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -102,4 +77,6 @@
 
 ---
 
-**Thanks for stopping by!** 🚀✨
+[![](https://visitcount.itsvg.in/api?id=riteshsargam&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
