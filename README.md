@@ -27,7 +27,24 @@
 ---
 
 ## 💻 Tech Stack:
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs" height="40"/> <b>C#</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=dotnet" height="40"/> <b>.NET</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=azure" height="40"/> <b>Azure</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=docker" height="40"/> <b>Docker</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/> <b>Kubernetes</b> &nbsp;|&nbsp; <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="25"/> <b>RabbitMQ</b> &nbsp;|&nbsp; <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40"/> <b>SQL Server</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=postgres" height="40"/> <b>PostgreSQL</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> <b>MongoDB</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=redis" height="40"/> <b>Redis</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=postman" height="40"/> <b>Postman</b> &nbsp;|&nbsp; <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" height="25"/> <b>Swagger</b> &nbsp;|&nbsp; <img src="https://skillicons.dev/icons?i=angular" height="40"/> <b>Angular</b> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40px"/> <b>C#</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40px"/> <b>.NET</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" height="40px"/> <b>Azure</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40px"/> <b>Docker</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40px"/> <b>Kubernetes</b> &nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="40px"/> <b>RabbitMQ</b> &nbsp;|&nbsp;
+  <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40px" width="40px"/> <b>SQL Server</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="40px"/> <b>PostgreSQL</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40px"/> <b>MongoDB</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="40px"/> <b>Redis</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40px"/> <b>Git</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40px"/> <b>GitHub</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40px"/> <b>Postman</b> &nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" height="40px"/> <b>Swagger</b> &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" height="40px"/> <b>Angular</b>
+</p>
+
 ---
 
 ## 📊 GitHub Stats:
