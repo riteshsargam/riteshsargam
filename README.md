@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Sargam</h1>
 <h3 align="center">Aspiring .NET Developer | C# | ASP.NET Core | Microservices | SQL | Angular | Cloud Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshsargam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/ritesh-sargam"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/riteshsargam"><img src="https://img.shields.io/github/followers/riteshsargam?label=Followers&style=social" alt="GitHub Followers" /></a>
-</p>
-
 ---
 
 ## 🌐 Connect with Me:
@@ -47,6 +41,7 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
