@@ -26,86 +26,22 @@
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); max-width: 100%; margin: 0 auto;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=cs" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">C#</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=dotnet" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">.NET</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=azure" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Azure</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=docker" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Docker</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=kubernetes" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Kubernetes</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">RabbitMQ</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" height="40px" width="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">SQL Server</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=postgres" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">PostgreSQL</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">MongoDB</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=redis" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Redis</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=git" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Git</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=github" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">GitHub</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=postman" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Postman</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Swagger</b>
-    </div>
-    <span style="color: #bdc3c7;">&nbsp;|&nbsp;</span>
-    <div style="display: flex; flex-direction: column; align-items: center; transition: transform 0.3s ease;">
-      <img src="https://skillicons.dev/icons?i=angular" height="40px" style="margin-bottom: 5px;" />
-      <b style="font-size: 14px; color: #2c3e50;">Angular</b>
-    </div>
-  </div>
-</div>
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
 
 ---
 
