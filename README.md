@@ -3,6 +3,15 @@
 
 ---
 
+## 🌟 Portfolio
+<p align="center">
+  <a href="https://ritesh.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit My Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/ritesh-sargam/">
@@ -10,9 +19,6 @@
   </a>
   <a href="mailto:ritesh.sargam00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://ritesh.is-a.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
